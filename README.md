@@ -153,6 +153,8 @@ The resulting photography, oral histories, short film, field recordings, and imm
 
 See: [National Geographic — Human Thread Concept](docs/NATGEO_HUMAN_THREAD_CONCEPT.md)
 
+Application package: [NatGeo Human Thread 2026](docs/natgeo/README.md)
+
 ---
 
 ## What Lotos Star is not
